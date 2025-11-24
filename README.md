@@ -2,10 +2,10 @@
 
 ## Project Overview
 
- **Project Title**: Sales Data Analysis
- **Platform Used**: pgadmin 4
- **SQL Query Language**: postgresql
- **Database**: sql_project_2
+**Project Title**: Sales Data Analysis
+**Platform Used**: pgadmin 4
+**SQL Query Language**: postgresql
+**Database**: sql_project_2
 
 This SQL project focuses on cleaning, exploring, and analyzing a retail sales dataset. The workflow simulates a real-world analytics task: preparing raw data, performing exploratory analysis, answering business questions, and generating insights that can guide strategic decision-making.
 
@@ -269,6 +269,7 @@ ORDER BY avg_profit_margin DESC;
 - **Gender-Based Insights**: Tailor campaigns to female customers, who show higher purchase frequency, potentially using personalized offers or recommendations.
 - **Upselling & Cross-Selling**: Use high-value transaction patterns to identify opportunities for upselling and cross-selling complementary products.
   
+
 
 
 
