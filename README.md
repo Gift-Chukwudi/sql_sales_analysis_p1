@@ -16,7 +16,6 @@ This SQL project focuses on cleaning, exploring, and analyzing a retail sales da
 3. Advanced Analytical SQL Functions.
 4. Critical Thinking.
 5. Problem Solving.
-6. Data cleaning & transformation.
 
 ## Objectives
 
@@ -269,6 +268,7 @@ ORDER BY avg_profit_margin DESC;
 - **Gender-Based Insights**: Tailor campaigns to female customers, who show higher purchase frequency, potentially using personalized offers or recommendations.
 - **Upselling & Cross-Selling**: Use high-value transaction patterns to identify opportunities for upselling and cross-selling complementary products.
   
+
 
 
 
