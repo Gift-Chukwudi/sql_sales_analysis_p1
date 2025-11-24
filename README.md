@@ -1,4 +1,4 @@
-#Sales Data Analysis SQL Project 1
+## Sales Data Analysis SQL Project 
 
 ## Project Overview
 
@@ -268,6 +268,7 @@ ORDER BY avg_profit_margin DESC;
 - **Gender-Based Insights**: Tailor campaigns to female customers, who show higher purchase frequency, potentially using personalized offers or recommendations.
 - **Upselling & Cross-Selling**: Use high-value transaction patterns to identify opportunities for upselling and cross-selling complementary products.
   
+
 
 
 
