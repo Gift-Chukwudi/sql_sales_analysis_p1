@@ -58,10 +58,6 @@ CREATE TABLE sales_data
 - **Replace NULL Age Value**: Replace NULL ages with the average customer age.
 
 ```sql
-SELECT COUNT(*) FROM sales_data;
-SELECT COUNT(DISTINCT customer_id) FROM sales_data;
-SELECT COUNT(DISTINCT category) FROM sales_data;
-
 SELECT * FROM sales_data
 WHERE 
 	transactions_id IS NULL
@@ -273,5 +269,6 @@ ORDER BY avg_profit_margin DESC;
 - **Gender-Based Insights**: Tailor campaigns to female customers, who show higher purchase frequency, potentially using personalized offers or recommendations.
 - **Upselling & Cross-Selling**: Use high-value transaction patterns to identify opportunities for upselling and cross-selling complementary products.
   
+
 
 
