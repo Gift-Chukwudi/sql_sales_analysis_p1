@@ -19,13 +19,6 @@ CREATE TABLE sales_data(
 SELECT table_schema, table_name
 FROM information_schema.tables
 WHERE table_name LIKE '%sales_data%';
--- Select all data from the table with a limit
-SELECT * FROM sales_data
-LIMIT 10;
--- Confirm the total rows of data
-SELECT
-	  COUNT (*)
-FROM sales_data;
 
 -- Data Cleaning
 -- Check for NULL values
@@ -151,7 +144,8 @@ WHERE category = 'Beauty';
 
 -- Q5. Find all transactions where the total_sale is greater than 1000.
 SELECT * FROM sales_data
-WHERE total_sale > 1000;
+WHERE total_sale > 1000
+ORDER BY total_sale DESC;
 
 -- Q6. Find the total number of transactions (transaction_id) made by each gender in each category.
 SELECT 
@@ -215,7 +209,7 @@ SELECT
 FROM shift_table
 GROUP BY employee_shift;
 
--- Q11. What is the average quantity per customer by gender?
+-- Q11. What is the average quantity bought per customer by gender?
 SELECT 
 	 gender,
 	 ROUND(AVG(quantity), 2) AS avg_quantity
