@@ -11,12 +11,12 @@ This SQL project focuses on cleaning, exploring, and analyzing a retail sales da
 
 ## Skill Demonstrated
 
-a. Data Cleaning & Transformation.
-b. Exploratory Queries.
-c. Advanced Analytical SQL Functions.
-d. Critical Thinking.
-e. Problem Solving.
-f. Data cleaning & transformation.
+1. Data Cleaning & Transformation.
+2. Exploratory Queries.
+3. Advanced Analytical SQL Functions.
+4. Critical Thinking.
+5. Problem Solving.
+6. Data cleaning & transformation.
 
 ## Objectives
 
@@ -259,13 +259,7 @@ ORDER BY avg_profit_margin DESC;
 - **High-Value Transactions**: Several transactions exceeded a total sale amount of 1,000, indicating premium purchases, with the highest sale recorded at 2,000.
 - **Sales Trends**: Monthly sales analysis revealed fluctuations throughout the year. July 2022 was the peak month for sales in 2022, while February 2023 recorded the highest sales for that year.
 - **Customer Insights**:
- 1. The top 5 spending customers were:
-
-a. Customer ID 3 – 38,440 total purchases
-b. Customer ID 1 – 30,750 total purchases
-c. Customer ID 5 – 30,405 total purchases
-d. Customer ID 2 – 25,295 total purchases
-e. Customer ID 4 – 23,580 total purchases
+ 1. The top 5 spending customers were: Customer ID 3 – 38,440 total purchases, Customer ID 1 – 30,750 total purchases, Customer ID 5 – 30,405 total purchases, Customer ID 2 – 25,295 total purchases, Customer ID 4 – 23,580 total purchases.
 
 2. Female customers accounted for the highest average purchases, with an average of 2.54 purchases per customer.
 
@@ -280,5 +274,4 @@ e. Customer ID 4 – 23,580 total purchases
 - **Upselling & Cross-Selling**: Use high-value transaction patterns to identify opportunities for upselling and cross-selling complementary products.
   
 
-Thank you for your support, and I look forward to connecting with you!
 
