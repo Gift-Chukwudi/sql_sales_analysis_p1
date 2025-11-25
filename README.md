@@ -250,7 +250,7 @@ ORDER BY avg_profit_margin DESC;
 
 ## Findings
 
-- **Customer Demographics**: The dataset contains 2,000 records representing customers across various age groups. Sales are distributed among three main product categories: Electronics, Clothing, and Beauty.
+- **Customer Demographics**: The dataset contains 2,000 records (1997 after data cleaning) representing customers across various age groups. Sales are distributed among three main product categories: Electronics, Clothing, and Beauty.
 - **High-Value Transactions**: Several transactions exceeded a total sale amount of 1,000, indicating premium purchases, with the highest sale recorded at 2,000.
 - **Sales Trends**: Monthly sales analysis revealed fluctuations throughout the year. July 2022 was the peak month for sales in 2022, while February 2023 recorded the highest sales for that year.
 - **Customer Insights**:
@@ -268,6 +268,7 @@ ORDER BY avg_profit_margin DESC;
 - **Gender-Based Insights**: Tailor campaigns to female customers, who show higher purchase frequency, potentially using personalized offers or recommendations.
 - **Upselling & Cross-Selling**: Use high-value transaction patterns to identify opportunities for upselling and cross-selling complementary products.
   
+
 
 
 
