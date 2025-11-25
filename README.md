@@ -32,7 +32,7 @@ This SQL project focuses on cleaning, exploring, and analyzing a retail sales da
 - **Table Creation**: A table named `sales_data` is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
 
 ```sql
-CREATE DATABASE sql_project_p2;
+CREATE DATABASE sql_project_2;
 
 CREATE TABLE sales_data
 (
@@ -268,6 +268,7 @@ ORDER BY avg_profit_margin DESC;
 - **Gender-Based Insights**: Tailor campaigns to female customers, who show higher purchase frequency, potentially using personalized offers or recommendations.
 - **Upselling & Cross-Selling**: Use high-value transaction patterns to identify opportunities for upselling and cross-selling complementary products.
   
+
 
 
 
