@@ -254,7 +254,7 @@ ORDER BY avg_profit_margin DESC;
 - **High-Value Transactions**: Several transactions exceeded a total sale amount of 1,000, indicating premium purchases, with the highest sale recorded at 2,000.
 - **Sales Trends**: Monthly sales analysis revealed fluctuations throughout the year. July 2022 was the peak month for sales in 2022, while February 2023 recorded the highest sales for that year.
 - **Customer Insights**:
- 1. The top 5 spending customers were: Customer ID 3 – 38,440 total purchases, Customer ID 1 – 30,750 total purchases, Customer ID 5 – 30,405 total purchases, Customer ID 2 – 25,295 total purchases, Customer ID 4 – 23,580 total purchases.
+ 1. The top 5 spending customers were: Customer ID 3 – 38,440 total amount spent, Customer ID 1 – 30,750 total amount spent, Customer ID 5 – 30,405 total amount spent, Customer ID 2 – 25,295 total amount spent, Customer ID 4 – 23,580 total amount spent.
 
 2. Female customers accounted for the highest average purchases, with an average of 2.54 purchases per customer.
 
@@ -268,6 +268,7 @@ ORDER BY avg_profit_margin DESC;
 - **Gender-Based Insights**: Tailor campaigns to female customers, who show higher purchase frequency, potentially using personalized offers or recommendations.
 - **Upselling & Cross-Selling**: Use high-value transaction patterns to identify opportunities for upselling and cross-selling complementary products.
   
+
 
 
 
