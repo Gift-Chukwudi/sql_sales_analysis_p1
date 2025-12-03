@@ -263,11 +263,12 @@ ORDER BY avg_profit_margin DESC;
 ## Recommendations
 
 - **Target High-Value Customers**: Develop loyalty programs or personalized promotions for top-spending customers to increase retention and repeat purchases.
-- **Seasonal Marketing Campaigns**: Focus marketing efforts on peak months (July 2022, February 2023) to maximize sales during high-demand periods.
+- **Seasonal Marketing Campaigns**: Focus marketing efforts on peak months (July and February) to maximize sales during high-demand periods.
 - **Product Focus**: Prioritize inventory and marketing for high-margin categories like Clothing, while exploring strategies to boost sales in Electronics and Beauty.
 - **Gender-Based Insights**: Tailor campaigns to female customers, who show higher purchase frequency, potentially using personalized offers or recommendations.
 - **Upselling & Cross-Selling**: Use high-value transaction patterns to identify opportunities for upselling and cross-selling complementary products.
   
+
 
 
 
